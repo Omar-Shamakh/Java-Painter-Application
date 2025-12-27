@@ -72,5 +72,4 @@ A screenshot of the application's main window:
 
 ## ✍️ Author
 
-*   **Manus AI** (Documentation and Repository Preparation)
-*   *Original Author Name Here* (Please replace with the original author's name)
+*   Omar Sameh Shamakh
