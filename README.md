@@ -19,7 +19,7 @@ A simple, yet functional, graphical editor built using Java Swing. This applicat
 
 1.  **Clone the repository:**
     ```bash
-    git clone [YOUR_REPOSITORY_URL]
+    git clone [REPOSITORY_URL]
     cd Java-Painter-Application
     ```
 2.  **Compile the source code:**
